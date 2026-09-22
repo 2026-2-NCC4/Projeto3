@@ -10,9 +10,9 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# CTI
 
-## Nome do Grupo
+## ContaTech
 
 ## Integrantes: <a href="https://www.linkedin.com/in/guilherme-le%C3%A3o-277053347">Guilherme Leão Rodrigues</a>, <a href="https://www.linkedin.com/in/rafaelchagas06/">Rafael Chagas Silva</a>, <a href="https://www.linkedin.com/in/breno-sales-colaneri-231b59322/">Breno Sales Colaneri</a>, <a href="https://www.linkedin.com/in/izabelliribeiro/">Izabelli Ribeiros dos Santos do</a>
 
