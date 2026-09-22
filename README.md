@@ -19,11 +19,6 @@ Vide tutoriais do PI.
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a>Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/adriano-valente/">Adriano Felix Valente</a>
 ## Descrição
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="ContaTech" border="0">
-</p>
-
-
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
 Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
