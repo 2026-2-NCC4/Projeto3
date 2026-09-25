@@ -31,22 +31,20 @@ May the force be with you!
 -Raiz
 |
 |-->documentos
-  |-->Entrega 1
-    |-->Análise Inferencial de Dados
-    |-->Contabilidade e Finanças
-    |-->Engenharia de Software e Arquitetura de Sistemas
-    |-->Projeto Interdisciplinar Ciência de Dados
-  |-->Entrega 2
-    |-->Análise Inferencial de Dados
-    |-->Contabilidade e Finanças
-    |-->Engenharia de Software e Arquitetura de Sistemas
-    |-->Projeto Interdisciplinar Ciência de Dados
+   |-->Entrega 1
+      |-->Análise Inferencial de Dados
+      |-->Contabilidade e Finanças
+      |-->Engenharia de Software e Arquitetura de Sistemas
+      |-->Projeto Interdisciplinar Ciência de Dados
+   |-->Entrega 2
+      |-->Análise Inferencial de Dados
+      |-->Contabilidade e Finanças
+      |-->Engenharia de Software e Arquitetura de Sistemas
+      |-->Projeto Interdisciplinar Ciência de Dados
 |-->imagens
 |-->src
-  |-->BackEnd
-  |-->FrontEnd
-
-  
+   |-->BackEnd
+   |-->FrontEnd  
 |.gitignore
 |README.md   
 A pasta raiz contem dois arquivos que devem ser alterados:
