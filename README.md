@@ -64,13 +64,20 @@ O projeto está organizado da seguinte forma:
 
 ## 🛠 Como Executar o Projeto (Google Colab)
 
-Para abrir e executar a análise, siga o passo a passo abaixo:
+Para aceder e executar a primeira entrega, navegue pelo seguinte caminho no repositório: 
 
-1. Aceda ao Google Drive e navegue até a pasta **Projeto Interdisciplinar Ciência de Dados**.
-2. Dentro dela, localize a pasta **documentos** (ou aceda diretamente à respetiva pasta da disciplina onde o notebook se encontra).
-3. Faça o upload ou abra diretamente o ficheiro `.ipynb` (Notebook do Colab) na plataforma do **Google Colab**.
-4. Certifique-se de que os ficheiros de dados e suportes correspondentes estão carregados no ambiente e execute as células sequencialmente.
-   
+<b>documentos</b> > <b>entrega1</b> > <b>Projeto Interdisciplinar Ciência de Dados</b>. 
+
+Nessa pasta, basta seguir o passo a passo detalhado e as instruções específicas descritas no README próprio que se encontra lá.
+
+## 💻 Configuração para Desenvolvimento e Ambiente
+
+O desenvolvimento principal deste projeto é executado no ambiente interativo do **Google Colab**. O código faz uso das seguintes importações principais para a leitura, tratamento dos demonstrativos e geração de gráficos:
+
+python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
