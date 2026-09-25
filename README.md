@@ -74,10 +74,11 @@ Nessa pasta, basta seguir o passo a passo detalhado e as instruções específic
 
 O desenvolvimento principal deste projeto é executado no ambiente interativo do **Google Colab**. O código faz uso das seguintes importações principais para a leitura, tratamento dos demonstrativos e geração de gráficos:
 
-python
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+```
 
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
