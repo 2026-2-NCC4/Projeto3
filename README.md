@@ -28,6 +28,7 @@ May the force be with you!
 
 ## 🛠 Estrutura de pastas
 
+<pre>
 -Raiz
 |
 |-->documentos
@@ -36,15 +37,13 @@ May the force be with you!
       |-->Contabilidade e Finanças
       |-->Engenharia de Software e Arquitetura de Sistemas
       |-->Projeto Interdisciplinar Ciência de Dados
+      |Venha para a FECAP!.txt
    |-->Entrega 2
-      |-->Análise Inferencial de Dados
-      |-->Contabilidade e Finanças
-      |-->Engenharia de Software e Arquitetura de Sistemas
-      |-->Projeto Interdisciplinar Ciência de Dados
 |-->imagens
 |-->src
-   |-->BackEnd
-   |-->FrontEnd  
+|.gitignore
+|README.md
+</pre>
 |.gitignore
 |README.md   
 A pasta raiz contem dois arquivos que devem ser alterados:
