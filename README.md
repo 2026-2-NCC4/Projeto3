@@ -19,12 +19,9 @@ Vide tutoriais do PI.
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a>Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/adriano-valente/">Adriano Felix Valente</a>
 ## Descrição
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+Este projeto consiste na estruturação, consolidação e análise avançada de dados contábeis e financeiros para apoiar a tomada de decisão estratégica.
+
+A iniciativa abrange a organização e o tratamento de demonstrativos financeiros históricos, o alinhamento de premissas e taxas anuais de referência, e o cálculo de indicadores de desempenho econômico-financeiro essenciais (como margens, rentabilidade e retorno sobre o patrimônio).Adicionalmente, integra uma componente de modelagem preditiva e análise de cenários estocásticos (projeções de receita), permitindo avaliar riscos, prever tendências futuras e fornecer uma visão integrada e transparente da saúde financeira da organização.
 
 ## 🛠 Estrutura de pastas
 
