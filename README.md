@@ -47,59 +47,30 @@ A iniciativa abrange a organização e o tratamento de demonstrativos financeiro
 |.gitignore
 |README.md
 </pre>
- 
-A pasta raiz contem dois arquivos que devem ser alterados:
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+## 📂 Estrutura do Repositório
 
-Há também 4 pastas que seguem da seguinte forma:
+O projeto está organizado da seguinte forma:
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+<b>documentos</b>: Toda a documentação, os relatórios e os arquivos integráveis de cada disciplina estão organizados em suas respetivas pastas dentro deste diretório.
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
+<b>executáveis</b>: Binários, relatórios finais ou arquivos gerados do projeto devem estar nesta pasta.
 
-<b>imagens</b>: Imagens do sistema
+<b>imagens</b>: Imagens do sistema, diagramas e gráficos gerados pelas análises.
 
-<b>src</b>: Pasta que contém o código fonte.
+<b>src</b>: Pasta que contém o código fonte e os scripts de processamento.
 
-## 🛠 Instalação
+---
 
-<b>Android:</b>
+## 🛠 Como Executar o Projeto (Google Colab)
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+Para abrir e executar a análise, siga o passo a passo abaixo:
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+1. Aceda ao Google Drive e navegue até a pasta **Projeto Interdisciplinar Ciência de Dados**.
+2. Dentro dela, localize a pasta **documentos** (ou aceda diretamente à respetiva pasta da disciplina onde o notebook se encontra).
+3. Faça o upload ou abra diretamente o ficheiro `.ipynb` (Notebook do Colab) na plataforma do **Google Colab**.
+4. Certifique-se de que os ficheiros de dados e suportes correspondentes estão carregados no ambiente e execute as células sequencialmente.
+   
 
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
