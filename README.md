@@ -81,8 +81,7 @@ import matplotlib.pyplot as plt
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
-
+<a href="https://example.com">Projeto Interdisciplinar </a> © 2026 by <a href="https://example.com">Rafael Chagas, Izabelli Ribeiro, Breno Colaneri, Guilherme Leão</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
