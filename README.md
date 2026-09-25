@@ -28,21 +28,27 @@ May the force be with you!
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+-Raiz
+|
+|-->documentos
+  |-->Entrega 1
+    |-->Análise Inferencial de Dados
+    |-->Contabilidade e Finanças
+    |-->Engenharia de Software e Arquitetura de Sistemas
+    |-->Projeto Interdisciplinar Ciência de Dados
+  |-->Entrega 2
+    |-->Análise Inferencial de Dados
+    |-->Contabilidade e Finanças
+    |-->Engenharia de Software e Arquitetura de Sistemas
+    |-->Projeto Interdisciplinar Ciência de Dados
+|-->imagens
+|-->src
+  |-->BackEnd
+  |-->FrontEnd
 
+  
+|.gitignore
+|README.md   
 A pasta raiz contem dois arquivos que devem ser alterados:
 
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
