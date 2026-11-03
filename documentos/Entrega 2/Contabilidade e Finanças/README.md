@@ -7,8 +7,7 @@
 **Parceira Corporativa:** CTI Global  
 **Unidade Curricular:** Contabilidade e Finanças  
 **Etapa:** Entrega 02 – Painel Financeiro Operacional (Final — 4,0 Pontos)  
-**Aplicação em Nuvem:** [https://dashboard-contatech.streamlit.app](https://dashboard-contatech.streamlit.app)  
-**Repositório Oficial:** [https://github.com/BrenoColaneri/dashboard](https://github.com/BrenoColaneri/dashboard)  
+**Aplicação em Nuvem:** [https://dashboard-contatech.streamlit.app](https://dashboard-contatech.streamlit.app) 
 **Credenciais de Acesso Institucional:** Usuário: `admin` | Senha: `admin123`
 
 ---
@@ -187,31 +186,7 @@ A **Página 12 (Metas Financeiras)** permite a avaliação e o acompanhamento da
 
 ---
 
-## 7. Roteiro de Avaliação Rápida para o Professor / Avaliador
-
-Para auditar o cumprimento dos requisitos de Contabilidade e Finanças, recomenda-se o seguinte fluxo de navegação no dashboard:
-
-1. **Acessar a Plataforma:**
-   - Abra o link: [https://dashboard-contatech.streamlit.app](https://dashboard-contatech.streamlit.app) (ou `http://localhost:8501` localmente).
-   - Insira as credenciais: Usuário `admin` | Senha `admin123`.
-2. **Conferir a DRE e o Balanço (Páginas 2 e 3):**
-   - Alterne entre os cenários (ex.: `Cen_00001`, `Cen_00050`) e períodos (`Ano 1` ao `Ano 11`).
-   - Observe a reconciliação automática $Ativo = Passivo + PL$ e a decomposição de Margem Bruta, EBITDA e Lucro Líquido.
-3. **Explorar os Módulos de Caixa, DFC e DVA (Páginas 4, 5 e 7):**
-   - Página 4: Observe a conciliação entre o Lucro Líquido por competência e o Caixa Líquido das Operações.
-   - Página 5: Visualize o gráfico de pizza de distribuição da riqueza gerada pela CTI Global.
-   - Página 7: Analise os índices de Qualidade do Caixa e Cobertura de Capex.
-4. **Avaliar o Capital de Giro e Prazos Médios (Página 8):**
-   - Verifique os cálculos de PMR, PMP, Ciclo Financeiro e a Necessidade de Capital de Giro (NCG).
-5. **Testar a Análise de Sensibilidade e Metas (Páginas 11 e 12):**
-   - Página 11: Mova os seletores de *Desconto Comercial* (-5% ou +10%) e *Volume de Vendas* e visualize instantaneamente a recomputação da Margem Líquida e do EBITDA.
-   - Página 12: Verifique o semáforo gerencial de atingimento de metas.
-6. **Consultar as Fórmulas e Regras Contábeis (Página 17):**
-   - Acesse o dicionário in-app para checar a descrição formal de cada uma das 62 métricas calculadas.
-
----
-
-## 8. Exportação de Relatórios Gerenciais (CSV, Excel e PDF)
+## 7. Exportação de Relatórios Gerenciais (CSV, Excel e PDF)
 
 A **Página 15 (Relatórios Gerenciais)** disponibiliza a exportação completa de todos os dados contábeis em três formatos corporativos:
 - **Planilha Excel Multi-Abas (`.xlsx`):** Formatada profissionalmente com células em moeda brasileira (`R$ #.##0,00`), separador de milhar e abas dedicadas para DRE, Balanço, DFC, DVA e KPIs.

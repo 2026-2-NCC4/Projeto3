@@ -8,7 +8,6 @@
 **Unidade Curricular:** Projeto Interdisciplinar: Ciência de Dados  
 **Etapa:** Entrega 02 – Final (Dashboard Funcional e Scripts em Python — 4,0 Pontos)  
 **Aplicação em Nuvem:** [https://dashboard-contatech.streamlit.app](https://dashboard-contatech.streamlit.app)  
-**Repositório Oficial:** [https://github.com/BrenoColaneri/dashboard](https://github.com/BrenoColaneri/dashboard)  
 **Credenciais de Acesso Institucional:** Usuário: `admin` | Senha: `admin123`
 
 ---
@@ -191,21 +190,18 @@ O projeto conta com testes de regressão automatizados executados via `pytest`:
 ### Passo a Passo no Windows (PowerShell):
 
 ```powershell
-# 1. Clonar o repositório
-git clone https://github.com/BrenoColaneri/dashboard.git
-cd dashboard
 
-# 2. Criar e ativar o ambiente virtual Python
+# 1. Criar e ativar o ambiente virtual Python
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 
-# 3. Instalar as dependências do projeto
+# 2. Instalar as dependências do projeto
 pip install -r requirements.txt
 
-# 4. Executar a suíte de testes automatizados
+# 3. Executar a suíte de testes automatizados
 pytest -v
 
-# 5. Iniciar a aplicação localmente
+# 4. Iniciar a aplicação localmente
 streamlit run app.py
 ```
 
