@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/breno-sales-colaneri-231b59322/">Breno Sales Colaneri</a>, <a href="https://www.linkedin.com/in/guilherme-le%C3%A3o-277053347">Guilherme Leão Rodrigues</a>, <a href="https://www.linkedin.com/in/izabelliribeiro/">Izabelli Ribeiros dos Santos</a>, <a href="https://www.linkedin.com/in/rafaelchagas06/">Rafael Chagas Silva</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a>Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/adriano-valente/">Adriano Felix Valente</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a>Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>, <a>Mauricio Lopes Da Cunha</a>, <a href="https://www.linkedin.com/in/adriano-valente/">Adriano Felix Valente</a>
 ## Descrição
 
 Este projeto consiste na estruturação, consolidação e análise avançada de dados contábeis e financeiros para apoiar a tomada de decisão estratégica.
