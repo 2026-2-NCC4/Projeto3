@@ -16,16 +16,16 @@
 | **Trechos ou entregas afetadas** | Estruturação da planilha, incluindo as abas de Balanço Patrimonial, DRE, DFC, KPIs por cenário, estatísticas descritivas, dicionário de KPIs, resumo dos cenários, rankings, gráficos, premissas e validações. |
 
 
-### Disciplina 2
+### Projeto Interdisciplinar Ciência de Dados
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** | Rafael Chagas Silva |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | Google Gemini |
+| **Versão/modelo** | Gemini 3.8 Flash |
+| **Disciplina / Trabalho** | Projeto Interdisciplinar: Ciência de Dados — Entrega 1: Análise e Preparação dos Dados |
+| **Finalidade de uso** | • Apoio na compreensão da estrutura da base de dados financeira `Demonstrativo_Fecap_v3.csv`.<br>• Esclarecimento de dúvidas sobre a importação dos dados no Google Colab, utilizando Python e a biblioteca Pandas.<br>• Apoio na revisão das etapas de descrição e exploração dos dados, incluindo estatísticas descritivas, gráficos e análise de correlação.<br>• Sugestões para identificação de possíveis inconsistências, limpeza, padronização e organização da base de dados.<br>• Esclarecimento de dúvidas sobre os cálculos e a interpretação dos indicadores financeiros, como Margem EBITDA, Margem Líquida, ROE e Liquidez Corrente.<br>• Apoio na revisão e organização das explicações dos resultados obtidos durante a análise. |
+| ***Prompts* principais utilizados** | 1. *"Como verificar a estrutura da base de dados, identificar valores ausentes e conferir a quantidade de anos, cenários e contas contábeis?"*<br>2. *"Quais pontos devem ser observados durante a limpeza e padronização de uma base financeira, considerando nomes de contas e formatos numéricos?"*<br>3. *"Como interpretar as estatísticas descritivas, como média, desvio padrão, mínimo, máximo e quartis, dos indicadores financeiros?"*<br>4. *"O que representa o gráfico de evolução da Receita entre os cenários simulados e como interpretar os percentis 10 e 90?"*<br>5. *"Como interpretar os resultados do EBITDA, da Margem EBITDA e da correlação entre os indicadores financeiros?"*<br>6. *"Explique a finalidade da transformação dos dados dos formatos longo e largo e como conferir a organização dessas informações."* |
+| **Trechos ou entregas afetadas** | • **Identificação e Coleta dos Dados:** apoio à compreensão da fonte de dados e dos parâmetros de importação do CSV.<br>• **Descrição dos Dados:** esclarecimento sobre estrutura, tipos de dados, valores ausentes e combinações entre anos e cenários.<br>• **Exploração dos Dados:** apoio à interpretação das estatísticas descritivas, gráficos de Receita e EBITDA, Margem EBITDA e matriz de correlação.<br>• **Limpeza e Uniformização:** sugestões de revisão, padronização dos nomes das contas e organização dos formatos numéricos.<br>• **Derivação e Integração:** apoio à compreensão das fórmulas dos indicadores financeiros e da transformação dos dados.<br>• **Documentação:** auxílio na revisão textual e na organização das explicações presentes no relatório da Entrega 1. |
 
 ### Disciplina 3
 
