@@ -20,8 +20,8 @@
 
 | **Aluno(s) Responsável(veis)** | Rafael Chagas Silva |
 | :--- | :--- |
-| **Ferramenta utilizada** | Google Gemini |
-| **Versão/modelo** | Gemini 3.8 Flash |
+| **Ferramenta utilizada** | Google Gemini | ChatGPT |
+| **Versão/modelo** | Gemini 3.8 Flash | GPT-6 |
 | **Disciplina / Trabalho** | Projeto Interdisciplinar: Ciência de Dados — Entrega 1: Análise e Preparação dos Dados |
 | **Finalidade de uso** | • Apoio na compreensão da estrutura da base de dados financeira `Demonstrativo_Fecap_v3.csv`.<br>• Esclarecimento de dúvidas sobre a importação dos dados no Google Colab, utilizando Python e a biblioteca Pandas.<br>• Apoio na revisão das etapas de descrição e exploração dos dados, incluindo estatísticas descritivas, gráficos e análise de correlação.<br>• Sugestões para identificação de possíveis inconsistências, limpeza, padronização e organização da base de dados.<br>• Esclarecimento de dúvidas sobre os cálculos e a interpretação dos indicadores financeiros, como Margem EBITDA, Margem Líquida, ROE e Liquidez Corrente.<br>• Apoio na revisão e organização das explicações dos resultados obtidos durante a análise. |
 | ***Prompts* principais utilizados** | 1. *"Como verificar a estrutura da base de dados, identificar valores ausentes e conferir a quantidade de anos, cenários e contas contábeis?"*<br>2. *"Quais pontos devem ser observados durante a limpeza e padronização de uma base financeira, considerando nomes de contas e formatos numéricos?"*<br>3. *"Como interpretar as estatísticas descritivas, como média, desvio padrão, mínimo, máximo e quartis, dos indicadores financeiros?"*<br>4. *"O que representa o gráfico de evolução da Receita entre os cenários simulados e como interpretar os percentis 10 e 90?"*<br>5. *"Como interpretar os resultados do EBITDA, da Margem EBITDA e da correlação entre os indicadores financeiros?"*<br>6. *"Explique a finalidade da transformação dos dados dos formatos longo e largo e como conferir a organização dessas informações."* |
