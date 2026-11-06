@@ -38,17 +38,16 @@
 | ***Prompts* principais utilizados** | [preencher] |
 | **Trechos ou entregas afetadas** | [preencher] |
 
-### Disciplina 4
+### Engenharia de Software e Arquitetura de Sistemas
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
-| :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
-
+| **Aluno(s) Responsável(veis)** | **Guilherme Leão Rodrigues** |
+| ------------------------------ | ---------------------------- |
+| **Ferramenta utilizada** | Claude |
+| **Versão/modelo** | Sonnet 5.5 |
+| **Disciplina / Trabalho** | Engenharia de Software e Arquitetura de Sistemas / Entrega 1 - Aplicação de métodos ágeis e engenharia de requisitos completa no PI |
+| **Finalidade de uso** | Utilização exclusivamente para fins de observação, revisão e aprimoramento visual do PDF, auxiliando na identificação de possíveis ajustes de organização, diagramação, padronização e apresentação do documento.<br><br>Todo o conteúdo técnico, requisitos, decisões de projeto, implementações, análises e resultados foram desenvolvidos e definidos pelo grupo. |
+| **Prompts principais utilizados** | - Analise o PDF e identifique possíveis melhorias na organização e apresentação visual do documento.<br><br>- Revise o que foi escrito, caso algo esteja errado pode corrigir.<br><br>- Sugira ajustes de diagramação para tornar o documento mais organizado, profissional e fácil de visualizar. |
+| **Trechos ou entregas afetadas** | - **Organização visual:** revisão da disposição dos tópicos, tabelas e seções.<br><br>- **Formatação:** observação da padronização de fontes, títulos, espaçamentos, alinhamentos e cores.<br><br>- **Apresentação do PDF:** sugestões de melhorias na diagramação, distribuição do conteúdo e legibilidade das páginas. |
 ## Entrega 2
 <br><br>
 
@@ -86,7 +85,7 @@
 | ***Prompts* principais utilizados** | [preencher] |
 | **Trechos ou entregas afetadas** | [preencher] |
 
-### Engenharia de Software
+### Engenharia de Software e Arquitetura de Sistemas
 
 | **Aluno(s) Responsável(veis)** | **Guilherme Leão Rodrigues** |
 | ------------------------------ | ---------------------------- |
