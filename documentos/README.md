@@ -38,17 +38,16 @@
 | ***Prompts* principais utilizados** | [preencher] |
 | **Trechos ou entregas afetadas** | [preencher] |
 
-### Disciplina 4
+### Engenharia de Software e Arquitetura de Sistemas
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
-| :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
-
+| **Aluno(s) Responsável(veis)** | **Guilherme Leão Rodrigues** |
+| ------------------------------ | ---------------------------- |
+| **Ferramenta utilizada** | Claude |
+| **Versão/modelo** | Sonnet 5.5 |
+| **Disciplina / Trabalho** | Engenharia de Software e Arquitetura de Sistemas / Entrega 1 - Aplicação de métodos ágeis e engenharia de requisitos completa no PI |
+| **Finalidade de uso** | Utilização exclusivamente para fins de observação, revisão e aprimoramento visual do PDF, auxiliando na identificação de possíveis ajustes de organização, diagramação, padronização e apresentação do documento.<br><br>Todo o conteúdo técnico, requisitos, decisões de projeto, implementações, análises e resultados foram desenvolvidos e definidos pelo grupo. |
+| **Prompts principais utilizados** | - Analise o PDF e identifique possíveis melhorias na organização e apresentação visual do documento.<br><br>- Revise o que foi escrito, caso algo esteja errado pode corrigir.<br><br>- Sugira ajustes de diagramação para tornar o documento mais organizado, profissional e fácil de visualizar. |
+| **Trechos ou entregas afetadas** | - **Organização visual:** revisão da disposição dos tópicos, tabelas e seções.<br><br>- **Formatação:** observação da padronização de fontes, títulos, espaçamentos, alinhamentos e cores.<br><br>- **Apresentação do PDF:** sugestões de melhorias na diagramação, distribuição do conteúdo e legibilidade das páginas. |
 ## Entrega 2
 <br><br>
 
@@ -86,16 +85,16 @@
 | ***Prompts* principais utilizados** | [preencher] |
 | **Trechos ou entregas afetadas** | [preencher] |
 
-### Disciplina 4
+### Engenharia de Software e Arquitetura de Sistemas
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
-| :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Aluno(s) Responsável(veis)** | **Guilherme Leão Rodrigues** |
+| ------------------------------ | ---------------------------- |
+| **Ferramenta utilizada** | Claude |
+| **Versão/modelo** | Sonnet 5.5 |
+| **Disciplina / Trabalho** | Engenharia de Software / Entrega 2: Aplicação de design de software e diagramas UML no PI |
+| **Finalidade de uso** | - Criação das imagens dos diagramas UML (componentes, casos de uso, classes, sequência e atividades), a partir do conteúdo e das informações fornecidos pelo grupo.<br><br>- Redação da descrição de leitura que acompanha cada diagrama.<br><br>- Cuidado com a parte visual do documento: diagramação, padronização de cores e fontes, organização das seções e espaçamento entre os tópicos.<br><br>- Todo o conteúdo do projeto (requisitos, decisões de design, README, resultados e reflexões) foi fornecido e definido pelo grupo. |
+| **Prompts principais utilizados** | - Crie a imagem dos diagramas enviados abaixo, não altere valores ou adicione coisas, seja fiel às imagens enviadas.<br><br>- Revise os diagramas criados e construa uma legenda para que quem esteja visualizando consiga entender o meu ponto de vista.<br><br>- Deixe o PDF mais bonito, tire os espaços entre cada texto e deixe mais fácil de visualizar. |
+| **Trechos ou entregas afetadas** | - **Diagramas UML:** imagens dos diagramas (Figuras 1 a 6: componentes, casos de uso, classes em duas visões, sequência e atividades).<br><br>- **Descrição de leitura:** texto "Leitura" que explica cada diagrama.<br><br>- **Parte visual:** capa, cabeçalhos e rodapés, tabelas, numeração das seções, páginas em paisagem para os diagramas largos e espaçamento entre os tópicos. |
 
 ***Declaro que o uso acima descrito está em conformidade com o GUIA PARA O USO RESPONSÁVEL DE
 INTELIGÊNCIA ARTIFICIAL NA FECAP e que o conteúdo final é de minha plena responsabilidade
