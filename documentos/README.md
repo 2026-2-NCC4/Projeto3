@@ -27,16 +27,16 @@
 | ***Prompts* principais utilizados** | 1. *"Como verificar a estrutura da base de dados, identificar valores ausentes e conferir a quantidade de anos, cenários e contas contábeis?"*<br>2. *"Quais pontos devem ser observados durante a limpeza e padronização de uma base financeira, considerando nomes de contas e formatos numéricos?"*<br>3. *"Como interpretar as estatísticas descritivas, como média, desvio padrão, mínimo, máximo e quartis, dos indicadores financeiros?"*<br>4. *"O que representa o gráfico de evolução da Receita entre os cenários simulados e como interpretar os percentis 10 e 90?"*<br>5. *"Como interpretar os resultados do EBITDA, da Margem EBITDA e da correlação entre os indicadores financeiros?"*<br>6. *"Explique a finalidade da transformação dos dados dos formatos longo e largo e como conferir a organização dessas informações."* |
 | **Trechos ou entregas afetadas** | • **Identificação e Coleta dos Dados:** apoio à compreensão da fonte de dados e dos parâmetros de importação do CSV.<br>• **Descrição dos Dados:** esclarecimento sobre estrutura, tipos de dados, valores ausentes e combinações entre anos e cenários.<br>• **Exploração dos Dados:** apoio à interpretação das estatísticas descritivas, gráficos de Receita e EBITDA, Margem EBITDA e matriz de correlação.<br>• **Limpeza e Uniformização:** sugestões de revisão, padronização dos nomes das contas e organização dos formatos numéricos.<br>• **Derivação e Integração:** apoio à compreensão das fórmulas dos indicadores financeiros e da transformação dos dados.<br>• **Documentação:** auxílio na revisão textual e na organização das explicações presentes no relatório da Entrega 1. |
 
-### Disciplina 3
+## Análise Inferencial de Dados
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** | Izabelli Ribeiro dos Santos |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | Google Gemini |
+| **Versão/modelo** | Gemini 1.5 Pro |
+| **Disciplina / Trabalho** | Análise Inferencial de Dados – Entrega 01: Análise Descritiva |
+| **Finalidade de uso** | Apoio na compreensão da lógica de importação e tratamento de dados (ajuste de encoding e formatação brasileira de separadores no arquivo CSV). Auxílio na escolha das estatísticas descritivas adequadas e suporte na interpretação de visualizações gráficas (Histograma e Boxplot). Apoio na estruturação textual do relatório técnico e na interpretação formal das anomalias numéricas. |
+| ***Prompts* principais utilizados** | 1. "Como tratar erros de encoding e formatação brasileira de milhares e decimais ao importar uma base de dados financeira?"<br>2. "Quais as melhores métricas estatísticas para avaliar a distribuição e a dispersão de uma base contábil com alta variabilidade?"<br>3. "Como interpretar visualmente um boxplot e um histograma em uma base de dados que possui muitos valores atípicos e zerados?"<br>4. "Como estruturar um relatório técnico interpretando a grande diferença entre a média e a mediana em uma base com forte presença de outliers?" |
+| **Trechos ou entregas afetadas** | Script da Entrega 1 no Colab (lógica de preparação da base, extração das métricas e plotagem dos gráficos) e a formatação do relatório no Word (seções de Introdução, Metodologia, Tabela Descritiva, Interpretação Numérica e Conclusão Parcial). |
 
 ### Engenharia de Software e Arquitetura de Sistemas
 
@@ -74,16 +74,16 @@
 | ***Prompts* principais utilizados** | 1. *"Desenvolva o pipeline de dados para processar a planilha 'Contabilidade e Finanças.xlsx' (9 abas e 1.200 cenários) com cache Parquet em staging, validação por hash SHA-256 e geração do dicionário de dados e catálogo de fontes."*<br>2. *"Implemente o módulo de regressão linear múltipla (OLS) com partição treino/teste agrupada por cenário para evitar vazamento de dados, diagnósticos de multicolinearidade (VIF), normalidade (Jarque-Bera) e heterocedasticidade com erros-padrão robustos (HC3)."*<br>3. *"Construa o dashboard corporativo responsivo no Streamlit com navegação entre 17 páginas, autenticação segura com bcrypt, rate limiting e layout split-screen elegante, além de testes automatizados com pytest e Streamlit AppTest para validação da entrega."* |
 | **Trechos ou entregas afetadas** | • **Pipeline e Engenharia de Dados:** `src/data_loader.py`, `src/data_processing.py`, `src/config.py`.<br>• **Módulos de Ciência de Dados e Econometria:** `src/statistical_analysis.py`, `src/regression_analysis.py`, `src/views/datascience_quality_exports.py` (Páginas 13 a 16).<br>• **Interface e Segurança:** `app.py`, `src/auth.py`, `src/ui_components.py`, `src/charts.py`, `src/reporting.py`.<br>• **Suíte de Testes Automatizados (43 testes):** `tests/test_data_loading.py`, `tests/test_filters.py`, `tests/test_auth.py`, `tests/test_app_ui.py`.<br>• **Documentação técnica da entrega:** `README_CIENCIA_DE_DADOS.md`, `docs/catalogo_dados.md`, `docs/metodologia.md`, `docs/limitacoes.md`, `docs/publicacao.md`. |
 
-### Disciplina 3
+### Análise Inferencial de Dados
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** | Izabelli Ribeiro dos Santos |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | Google Gemini |
+| **Versão/modelo** | Gemini 1.5 Pro |
+| **Disciplina / Trabalho** | Análise Inferencial de Dados – Entrega 02: Análise de Regressão dos Dados |
+| **Finalidade de uso** | Suporte no entendimento da lógica estatística para a modelagem de regressão linear simples. Auxílio na compreensão de técnicas de transformação (pivotagem) da base de dados para conversão de linhas contábeis em colunas. Orientação na interpretação das métricas de avaliação do modelo (R², MSE, Coeficiente Angular e Intercepto) e elaboração do levantamento de limitações teóricas. |
+| ***Prompts* principais utilizados** | 1. "Qual a melhor estratégia estatística para preparar e cruzar dados de contas contábeis que estão em uma mesma coluna para uma análise bivariada?"<br>2. "Como avaliar se um modelo de Regressão Linear Simples é adequado para relacionar duas variáveis financeiras distintas?"<br>3. "Como interpretar matematicamente a Qualidade do Ajuste (R²) e o Erro Quadrático Médio (MSE) gerados em uma análise de regressão?"<br>4. "Quais são as principais limitações teóricas ao aplicar uma regressão linear em bases financeiras com alta concentração de outliers?" |
+| **Trechos ou entregas afetadas** | Script da Entrega 2 no Colab (lógica de pivotagem dos dados e aplicação do algoritmo estatístico) e o relatório técnico final no Word (seções de Objetivo, Interpretação de Coeficientes, Diagnóstico do Modelo e Limitações da Análise). |
 
 ### Engenharia de Software e Arquitetura de Sistemas
 
