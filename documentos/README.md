@@ -90,19 +90,19 @@
 
 | **Aluno(s) Responsável(veis)** |[Guilherme Leão Rodrigues] |
 | :--- | :--- |
-| **Ferramenta utilizada** | [Claude] |
-| **Versão/modelo** | [sonnet 5.5] |
-| **Disciplina / Trabalho** | [Engenharia de Software / Entrega 2: Aplicação de design de software e diagramas UML no PI] |
-| **Finalidade de uso** | [- Criação das imagens dos diagramas UML (componentes, casos de uso, classes, sequência e atividades), a partir do conteúdo e das informações fornecidos pelo grupo.
+| **Ferramenta utilizada** | Claude |
+| **Versão/modelo** | sonnet 5.5 |
+| **Disciplina / Trabalho** | Engenharia de Software / Entrega 2: Aplicação de design de software e diagramas UML no PI |
+| **Finalidade de uso** | - Criação das imagens dos diagramas UML (componentes, casos de uso, classes, sequência e atividades), a partir do conteúdo e das informações fornecidos pelo grupo.
 - Redação da descrição de leitura que acompanha cada diagrama.
 - Cuidado com a parte visual do documento: diagramação, padronização de cores e fontes, organização das seções e espaçamento entre os tópicos.
-- Todo o conteúdo do projeto (requisitos, decisões de design, README, resultados e reflexões) foi fornecido e definido pelo grupo.] |
-| ***Prompts* principais utilizados** | [- Crie a imagem dos diagramas enviados a baixo, não altere valores ou adicione coisas, seja fiel as imagens enviadas.
+- Todo o conteúdo do projeto (requisitos, decisões de design, README, resultados e reflexões) foi fornecido e definido pelo grupo. |
+| ***Prompts* principais utilizados** | - Crie a imagem dos diagramas enviados a baixo, não altere valores ou adicione coisas, seja fiel as imagens enviadas.
 - Revise os diagramas criados e construa uma legenda para que quem esteja visualizando consiga entender o meu ponto de vista.
-- Deixe o PDF mais bonito, tire os espaçoes entre cada texto e deixe mais fácil de visualizar.] |
-| **Trechos ou entregas afetadas** | [-**Diagramas UML:** imagens dos diagramas (Figuras 1 a 6: componentes, casos de uso, classes em duas visões, sequência e atividades).
+- Deixe o PDF mais bonito, tire os espaçoes entre cada texto e deixe mais fácil de visualizar. |
+| **Trechos ou entregas afetadas** | -**Diagramas UML:** imagens dos diagramas (Figuras 1 a 6: componentes, casos de uso, classes em duas visões, sequência e atividades).
 - **Descrição de leitura:** texto "Leitura" que explica cada diagrama.
-- **Parte visual:** capa, cabeçalhos e rodapés, tabelas, numeração das seções, páginas em paisagem para os diagramas largos e espaçamento entre os tópicos.] |
+- **Parte visual:** capa, cabeçalhos e rodapés, tabelas, numeração das seções, páginas em paisagem para os diagramas largos e espaçamento entre os tópicos. |
 
 ***Declaro que o uso acima descrito está em conformidade com o GUIA PARA O USO RESPONSÁVEL DE
 INTELIGÊNCIA ARTIFICIAL NA FECAP e que o conteúdo final é de minha plena responsabilidade
